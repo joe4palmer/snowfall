@@ -1,0 +1,1 @@
+{ "name": "snowfall", "version": "0.1.0", "description": "A snowy night backdrop: snow piles up as the context window fills and melts after /compact", "types": "./types/index.d.ts" }
